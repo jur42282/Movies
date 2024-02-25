@@ -8,10 +8,10 @@ hodnoceni_uzivatelu = {
 
 
 #register user
-username = str(input("Zadej sve jmeno: ").lower())
+# username = str(input("Zadej sve jmeno: ").lower())
 
-if username in hodnoceni_uzivatelu:
-    print("Už jsi registrován")
-else:
-    films = str(input("Zadej filmy, které jsi viděl: ").split(","))
-    hodnoceni_uzivatelu[username] = films
+# if username in hodnoceni_uzivatelu:
+#     print("Už jsi registrován")
+# else:
+#     films = str(input("Zadej filmy, které jsi viděl: ").split(","))
+#     hodnoceni_uzivatelu[username] = films
