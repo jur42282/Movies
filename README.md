@@ -1,5 +1,4 @@
-# Movies
-![insaneultrasuperduperplaceholder](movies-banner.png "movies banner")
+![moviesbanner](movies-banner.png "movies banner")
 ## Informace
 <p>Movies je python program, který je založený na slovnících a po přihlášení uživatele mu nabídne 3 možnosti.</p>
 
